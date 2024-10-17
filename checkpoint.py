@@ -1,6 +1,5 @@
 import requests
 from lxml import html
-from tqdm import tqdm
 import pandas as pd
 import re
 from bs4 import BeautifulSoup
@@ -32,18 +31,16 @@ def standardize_category(text):
         return "Console System"
     if any(term in lower_text for term in ["gen 2","Gen 2","gen","environment monitoring device","environmental monitoring","Temperature & humidity sensor","temperature & humidity sensor","Remote management adapter","remote management adapter"]):
         return "Monitoring device"
-    if any(term in lower_text for term in ["category 6","category 6A","category 6a","patch cable","Security cable lock","security cable lock"," Cat 6 Riser Cable"," cat 6 riser cable","6ft Locking Cable Incl","6ft locking cable incl","security cable lock","Security Cable Lock","USB Type-C to Ethernet","usb type-c to ethernet","Network cable","network cable","Type-C to Ethernet","type-c to ethernet","Cat 5e Riser Cable","cat 5e riser cable"]):
+    if any(term in lower_text for term in ["category 6","category 6A","category 6a","patch cable","Security cable lock","security cable lock"," Cat 6 Riser Cable"," cat 6 riser cable","6ft Locking Cable Incl","6ft locking cable incl","security cable lock","Security Cable Lock","USB Type-C to Ethernet","usb type-c to ethernet","Network cable","network cable"]):
         return "Cables and accessories"
     if any(term in lower_text for term in ["lifetime warranty","software license","subscription licence","Subscription licence","Licence","licence"]):
         return "Software License"
-    if any(term in lower_text for term in ["v1","V1","v3","V3","switch","switches"]):
+    if any(term in lower_text for term in ["v3","V3","switch","switches"]):
         return "Switch"
     if any(term in lower_text for term in ["windows 10","Windows 10","windows server","Windows Server"]):
         return "Print Server"
-    if any(term in lower_text for term in ["Essentials Edition","essentials edition","Repeater","repeater"]):
+    if any(term in lower_text for term in ["Essentials Edition","essentials edition"]):
         return "Wifi range extender"
-    if any(term in lower_text for term in ["V2","Dual Band AC600 Wireless Dongle","dual band ac600 wireless dongle"]):
-        return "Network Adapter"
     if any(term in lower_text for term in ["usb","USB","Usb"]):
         return "USB Hub"
     return text
@@ -196,7 +193,7 @@ def extract_product_data(tree, url):
             if i <= len(features):
                 product_data[f'FEATURE {i}'] = features[i - 1]
             else:
-                product_data[f'FEATURE {i}'] = ""
+                product_data[f'FEATURE {i}'] = f"Feature {i} not available"
 
         # Update the Description with dynamic features
         product_data['Description'] = product_data['Description'].replace("{FEATURE 1}", product_data['FEATURE 1'])
@@ -213,11 +210,7 @@ def extract_product_data(tree, url):
         if category_elements:
             category = category_elements[0].text_content().strip()
             standardized_category = standardize_category(category)
-            if standardized_category in ["Cables and accessories", "Software License"]:
-                product_data['Categories'] = standardized_category
-            else:
-                product_data['Categories'] = f"Networking, Networking > {standardized_category}"
-
+            product_data['Categories'] = f"Networking, Networking > {standardized_category}"
 
         # Set Tags
         product_data['Tags'] = f"{product_data['Attribute 1 value(s)']},{standardized_category}"
@@ -257,6 +250,7 @@ def extract_product_urls(start_page, end_page):
             link = container.find('a', class_='product-item-link')
             if link:
                 product_links.append(link['href'])
+    
     return product_links
 
 
@@ -267,28 +261,20 @@ def scrape_stone_group():
     end_page = int(input("Enter the ending page number: "))
     
     product_urls = extract_product_urls(start_page, end_page)
-    total_products = len(product_urls)
     
-    print(f"Found {total_products} products to scrape.")
-    
-    for url in tqdm(product_urls, desc="Scraping Products", unit="product"):
+    for url in product_urls:
         try:
             response = requests.get(url)
             tree = html.fromstring(response.content)
             product_data = extract_product_data(tree, url)
             
-            tqdm.write(f"Scraped: {product_data['Name']}")
             products_data.append(product_data)
         except Exception as e:
-            tqdm.write(f"Error scraping {url}: {str(e)}")
-    
-    print("Scraping completed. Exporting data to CSV...")
+            print(f"Error scraping {url}: {str(e)}")
     
     # Create DataFrame and export to CSV
     df = pd.DataFrame(products_data)
     df.to_csv('stone_group_products.csv', index=False)
-    
-    print("Data exported successfully to stone_group_products.csv")
 
 
 if __name__ == "__main__":
