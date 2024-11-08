@@ -1,7 +1,7 @@
 from PIL import Image
 import os
 
-def resize_image(input_path, output_path, size=(420, 420)):
+def resize_image(input_path, output_path, size=(554, 554)):
     try:
         with Image.open(input_path) as img:
             # Create a new image with white background
@@ -23,7 +23,7 @@ def resize_image(input_path, output_path, size=(420, 420)):
         print(f"An error occurred: {str(e)}")
 
 def main():
-    input_directory = "input_images"
+    input_directory = "product_images"
     output_directory = "output_images"
     
     # Create output directory if it doesn't exist

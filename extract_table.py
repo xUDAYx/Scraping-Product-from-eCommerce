@@ -88,7 +88,8 @@ card_pro_des = capitalize_first_word(card_pro_des)
 # Use the product_specs, card_pro_name, and updated card_pro_des as needed
 if isinstance(product_specs, dict):
     generated_table_html = generate_html_table(product_specs)
-    print(f"Card Product Name: {card_pro_name}")
-    print(f"Card Product Description (with capitalized first word): {card_pro_des}")
+    # print(f"Card Product Name: {card_pro_name}")
+    # print(f"Card Product Description (with capitalized first word): {card_pro_des}")
 else:
-    print(product_specs)
+    # print(product_specs)
+    pass
