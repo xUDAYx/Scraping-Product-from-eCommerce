@@ -13,6 +13,7 @@ from colorama import init, Fore, Style
 from extract_table import extract_product_specs, generate_html_table
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
+from image_preprocessing.img__preprocessing import resize_image
 
 def get_gbp_to_inr_rate():
     try:
@@ -258,7 +259,8 @@ def download_image(image_url, product_code, save_directory):
     # Replace special characters with underscores
     safe_product_code = re.sub(r'[^\w\-_\. ]', '_', product_code)
     filename = f"{safe_product_code}.jpg"
-    filepath = os.path.join(save_directory, filename)
+    temp_filepath = os.path.join(save_directory, "temp_" + filename)
+    final_filepath = os.path.join(save_directory, filename)
     
     try:
         print(f"Attempting to download image from: {image_url}")
@@ -270,14 +272,17 @@ def download_image(image_url, product_code, save_directory):
             print(f"URL does not point to an image: {image_url}")
             return None
         
-        with open(filepath, 'wb') as f:
+        # Save original image temporarily
+        with open(temp_filepath, 'wb') as f:
             for chunk in response.iter_content(8192):
                 f.write(chunk)
         
         try:
-            with Image.open(filepath) as img:
-                img.verify()
-            print(f"Image downloaded and verified successfully: {filepath}")
+            # Preprocess and resize the image
+            resize_image(temp_filepath, final_filepath)
+            
+            # Clean up temporary file
+            os.remove(temp_filepath)
             
             current_date = datetime.now()
             year = current_date.year
@@ -286,9 +291,13 @@ def download_image(image_url, product_code, save_directory):
             new_image_url = f"https://www.movantechonline.com/wp-content/uploads/{year}/{month}/{filename}"
             
             return new_image_url
+            
         except Exception as e:
-            print(f"Downloaded file is not a valid image: {str(e)}")
-            os.remove(filepath)
+            print(f"Error processing image: {str(e)}")
+            if os.path.exists(temp_filepath):
+                os.remove(temp_filepath)
+            if os.path.exists(final_filepath):
+                os.remove(final_filepath)
             return None
         
     except requests.RequestException as e:

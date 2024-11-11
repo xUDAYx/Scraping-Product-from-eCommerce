@@ -1,4 +1,902 @@
 ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Date sale price starts,Tax status,Tax class,In stock?,Stock,Regular price,Categories,Tags,Images,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global,Product URL,Product Code,Meta: _product_code,image_url,FEATURE 1,FEATURE 2,FEATURE 3,FEATURE 4
+,simple,,Canon PGI-1500XL BK - High Yield - black - original - ink tank,1,0,visible,"DRHD pigment inks produce professional quality business documents, print after print. The high-density black ink delivers crisp text with great longevity and durability. The 34.7ml high yield XL black ink prints up to 1200 A4 documents.","<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""inventory"",""title"":""Inventory""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""shipping"",""title"":""Shipping""} /-->
+
+<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained"",""contentSize"":""1920px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
+<div class=""wp-block-columns""><!-- wp:column {""width"":""324px""} -->
+<div class=""wp-block-column"" style=""flex-basis:324px""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""25px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:25px;font-style:normal;font-weight:700;line-height:1.6""><strong>Product details</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {""width"":""805px""} -->
+<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
+<div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
+<div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Canon PGI-1500XL BK</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6""><strong>Overview</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">DRHD pigment inks produce professional quality business documents, print after print. The high-density black ink delivers crisp text with great longevity and durability. The 34.7ml high yield XL black ink prints up to 1200 A4 documents.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class=""wp-block-list""><!-- wp:list-item -->
+<li>34.7 ml</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>High Yield</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>black</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>original</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:table {""className"":""is-style-stripes""} /-->
+
+<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""0px""}},""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""verticalAlignment"":""center"",""style"":{""spacing"":{""blockGap"":{""top"":""0"",""left"":""0""},""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""border"":{""radius"":""8px""}}} -->
+<div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
+<div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
+<div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
+<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Canon PGI-1500XL BK</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>High Yield - black - original - ink tank</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {""verticalAlignment"":""center""} -->
+<div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
+<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/9182B001.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
+<div class=""wp-block-columns""><!-- wp:column {""width"":""805px""} -->
+<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""lineHeight"":""1.6"",""fontStyle"":""normal"",""fontWeight"":""400""}},""textColor"":""contrast""} -->
+<p class=""has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":1} -->
+<h1 class=""wp-block-heading"">Specification</h1>
+<!-- /wp:heading -->
+
+<!-- wp:table {""className"":""is-style-stripes"",""style"":{""border"":{""width"":""0px"",""style"":""none""},""spacing"":{""margin"":{""top"":""var:preset|spacing|30"",""bottom"":""var:preset|spacing|30""}}}} -->
+    <figure class=""wp-block-table is-style-stripes"" style=""margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"">
+    <table class=""has-fixed-layout"" style=""border-style:none;border-width:0px"">
+    <tbody>
+    
+        <tr>
+            <td><strong>Product Type</strong></td>
+            <td>Ink tank</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Printing Technology</strong></td>
+            <td>Ink-jet</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Printing Colour</strong></td>
+            <td>Black (pigmented)</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Capacity</strong></td>
+            <td>34.7 ml</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Cartridge Yield</strong></td>
+            <td>High Yield</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Cartridge Features</strong></td>
+            <td>Dual Resistant High Density (DRHD)</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Yield</strong></td>
+            <td>Up to 1200 pages</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Compatible with</strong></td>
+            <td>MAXIFY MB2050, MB2150, MB2155, MB2350, MB2750, MB2755</td>
+        </tr>
+        
+    </tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}}} -->
+<p class=""has-dm-sans-font-family"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+    ",,taxable,,1,,1986.56,"Networking, Networking > 34.7 ml","CANON,34.7 ml",https://www.movantechonline.com/wp-content/uploads/2024/11/9182B001.jpg,brand,CANON,1,1,https://www.stonegroup.co.uk/canon-pgi-1500xl-bk-high-yield-black-original-ink-tank-1tprnips-010953/,9182B001,9182B001,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/E/B/EB9CFE21-0D4D-40F0-8FF2-A3CFCD5D6E76.jpg,34.7 ml,High Yield,black,original
+,simple,,"Xerox VersaLink B605/B615 - Original - drum kit - for VersaLink B600, B605, B610, B615",1,0,visible,Xerox maintenance items are designed to keep your Xerox equipment operating efficiently and delivering the best quality.,"<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""inventory"",""title"":""Inventory""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""shipping"",""title"":""Shipping""} /-->
+
+<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained"",""contentSize"":""1920px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
+<div class=""wp-block-columns""><!-- wp:column {""width"":""324px""} -->
+<div class=""wp-block-column"" style=""flex-basis:324px""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""25px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:25px;font-style:normal;font-weight:700;line-height:1.6""><strong>Product details</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {""width"":""805px""} -->
+<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
+<div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
+<div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Xerox VersaLink B605/B615</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6""><strong>Overview</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">Xerox maintenance items are designed to keep your Xerox equipment operating efficiently and delivering the best quality.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class=""wp-block-list""><!-- wp:list-item -->
+<li>Original</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>drum kit</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>for VersaLink B600, B605, B610, B615</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:table {""className"":""is-style-stripes""} /-->
+
+<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""0px""}},""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""verticalAlignment"":""center"",""style"":{""spacing"":{""blockGap"":{""top"":""0"",""left"":""0""},""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""border"":{""radius"":""8px""}}} -->
+<div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
+<div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
+<div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
+<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Xerox VersaLink B605/B615</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>original - drum kit</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {""verticalAlignment"":""center""} -->
+<div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
+<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/101R00582.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
+<div class=""wp-block-columns""><!-- wp:column {""width"":""805px""} -->
+<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""lineHeight"":""1.6"",""fontStyle"":""normal"",""fontWeight"":""400""}},""textColor"":""contrast""} -->
+<p class=""has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":1} -->
+<h1 class=""wp-block-heading"">Specification</h1>
+<!-- /wp:heading -->
+
+<!-- wp:table {""className"":""is-style-stripes"",""style"":{""border"":{""width"":""0px"",""style"":""none""},""spacing"":{""margin"":{""top"":""var:preset|spacing|30"",""bottom"":""var:preset|spacing|30""}}}} -->
+    <figure class=""wp-block-table is-style-stripes"" style=""margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"">
+    <table class=""has-fixed-layout"" style=""border-style:none;border-width:0px"">
+    <tbody>
+    
+        <tr>
+            <td><strong>Product Type</strong></td>
+            <td>Drum kit</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Printing Technology</strong></td>
+            <td>Laser</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Yield</strong></td>
+            <td>Up to 60000 pages</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Compatible with</strong></td>
+            <td>VersaLink B600, B605, B610, B615</td>
+        </tr>
+        
+    </tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}}} -->
+<p class=""has-dm-sans-font-family"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+    ",,taxable,,1,,5842.76,"Networking, Networking > Original","XEROX,Original",https://www.movantechonline.com/wp-content/uploads/2024/11/101R00582.jpg,brand,XEROX,1,1,https://www.stonegroup.co.uk/xerox-versalink-b605-b615-original-drum-kit-1tprnlps-017111/,101R00582,101R00582,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/0/D/0D0B15C8-0962-4722-8096-4882CA5F11AE.jpg,Original,drum kit,"for VersaLink B600, B605, B610, B615",
+,simple,,"Xerox Phaser 6600 - High capacity - magenta - original - toner cartridge - for Phaser 6600, WorkCentre 6605",1,0,visible,"Xerox Genuine Phaser 6600, WorkCentre 6605 Magenta Toner Cartridge is specially formulated and tested to provide the best image quality and most reliable printing you can count on page after page. Xerox Genuine Supplies and Xerox equipment are made for each other. Accept no imitations. Compatible toners may risk breakdown of Xerox printers and result in poor print quality and weak colours. With over 75 years' experience, Genuine Xerox Supplies are something you can rely on.","<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""inventory"",""title"":""Inventory""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""shipping"",""title"":""Shipping""} /-->
+
+<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained"",""contentSize"":""1920px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
+<div class=""wp-block-columns""><!-- wp:column {""width"":""324px""} -->
+<div class=""wp-block-column"" style=""flex-basis:324px""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""25px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:25px;font-style:normal;font-weight:700;line-height:1.6""><strong>Product details</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {""width"":""805px""} -->
+<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
+<div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
+<div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Xerox Phaser 6600</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6""><strong>Overview</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">Xerox Genuine Phaser 6600, WorkCentre 6605 Magenta Toner Cartridge is specially formulated and tested to provide the best image quality and most reliable printing you can count on page after page. Xerox Genuine Supplies and Xerox equipment are made for each other. Accept no imitations. Compatible toners may risk breakdown of Xerox printers and result in poor print quality and weak colours. With over 75 years' experience, Genuine Xerox Supplies are something you can rely on.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class=""wp-block-list""><!-- wp:list-item -->
+<li>High capacity</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>magenta</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>original</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>toner cartridge</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:table {""className"":""is-style-stripes""} /-->
+
+<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""0px""}},""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""verticalAlignment"":""center"",""style"":{""spacing"":{""blockGap"":{""top"":""0"",""left"":""0""},""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""border"":{""radius"":""8px""}}} -->
+<div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
+<div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
+<div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
+<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Xerox Phaser 6600</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>high capacity - magenta - original - toner cartridge</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {""verticalAlignment"":""center""} -->
+<div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
+<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/106R02230.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
+<div class=""wp-block-columns""><!-- wp:column {""width"":""805px""} -->
+<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""lineHeight"":""1.6"",""fontStyle"":""normal"",""fontWeight"":""400""}},""textColor"":""contrast""} -->
+<p class=""has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":1} -->
+<h1 class=""wp-block-heading"">Specification</h1>
+<!-- /wp:heading -->
+
+<!-- wp:table {""className"":""is-style-stripes"",""style"":{""border"":{""width"":""0px"",""style"":""none""},""spacing"":{""margin"":{""top"":""var:preset|spacing|30"",""bottom"":""var:preset|spacing|30""}}}} -->
+    <figure class=""wp-block-table is-style-stripes"" style=""margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"">
+    <table class=""has-fixed-layout"" style=""border-style:none;border-width:0px"">
+    <tbody>
+    
+        <tr>
+            <td><strong>Product Type</strong></td>
+            <td>Toner cartridge</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Printing Technology</strong></td>
+            <td>Laser</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Printing Colour</strong></td>
+            <td>Magenta</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Cartridge Yield</strong></td>
+            <td>High capacity</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Yield</strong></td>
+            <td>Up to 6000 pages</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Compatible with</strong></td>
+            <td>Phaser 6600/DNM, 6600/YDN, 6600DN, 6600N, 6600V_DNM; WorkCentre 6605/DNM, 6605DN, 6605N, 6605V_DN, 6605V_DNC, 6605V_DNW, 6605V_N</td>
+        </tr>
+        
+    </tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}}} -->
+<p class=""has-dm-sans-font-family"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+    ",,taxable,,1,,18475.67,"Networking, Networking > High capacity","XEROX,High capacity",https://www.movantechonline.com/wp-content/uploads/2024/11/106R02230.jpg,brand,XEROX,1,1,https://www.stonegroup.co.uk/xerox-phaser-6600-high-capacity-magenta-original-toner-cartridge-1tprnlps-017191/,106R02230,106R02230,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/8/1/8181EC39-992C-4D68-B8A8-4141312D015D.jpg,High capacity,magenta,original,toner cartridge
+,simple,,"Canon PGI-1500XL Y - 9195B001 - 1 x Yellow - High Yield - Ink tank - For MAXIFY MB2050,MB2350",1,0,visible,"DRHD pigment inks produce professional quality business documents, print after print. The high-density ink delivers prints with strong color, great longevity and durability.","<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""inventory"",""title"":""Inventory""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""shipping"",""title"":""Shipping""} /-->
+
+<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained"",""contentSize"":""1920px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
+<div class=""wp-block-columns""><!-- wp:column {""width"":""324px""} -->
+<div class=""wp-block-column"" style=""flex-basis:324px""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""25px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:25px;font-style:normal;font-weight:700;line-height:1.6""><strong>Product details</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {""width"":""805px""} -->
+<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
+<div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
+<div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Canon PGI-1500XL Y</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6""><strong>Overview</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">DRHD pigment inks produce professional quality business documents, print after print. The high-density ink delivers prints with strong color, great longevity and durability.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class=""wp-block-list""><!-- wp:list-item -->
+<li>12 ml</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>High Yield</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>yellow</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>original</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:table {""className"":""is-style-stripes""} /-->
+
+<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""0px""}},""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""verticalAlignment"":""center"",""style"":{""spacing"":{""blockGap"":{""top"":""0"",""left"":""0""},""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""border"":{""radius"":""8px""}}} -->
+<div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
+<div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
+<div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
+<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Canon PGI-1500XL Y</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>High Yield - yellow - original - ink tank</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {""verticalAlignment"":""center""} -->
+<div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
+<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/9195B001.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
+<div class=""wp-block-columns""><!-- wp:column {""width"":""805px""} -->
+<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""lineHeight"":""1.6"",""fontStyle"":""normal"",""fontWeight"":""400""}},""textColor"":""contrast""} -->
+<p class=""has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":1} -->
+<h1 class=""wp-block-heading"">Specification</h1>
+<!-- /wp:heading -->
+
+<!-- wp:table {""className"":""is-style-stripes"",""style"":{""border"":{""width"":""0px"",""style"":""none""},""spacing"":{""margin"":{""top"":""var:preset|spacing|30"",""bottom"":""var:preset|spacing|30""}}}} -->
+    <figure class=""wp-block-table is-style-stripes"" style=""margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"">
+    <table class=""has-fixed-layout"" style=""border-style:none;border-width:0px"">
+    <tbody>
+    
+        <tr>
+            <td><strong>Product Type</strong></td>
+            <td>Ink tank</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Printing Technology</strong></td>
+            <td>Ink-jet</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Printing Colour</strong></td>
+            <td>Yellow (pigmented)</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Capacity</strong></td>
+            <td>12 ml</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Cartridge Yield</strong></td>
+            <td>High Yield</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Cartridge Features</strong></td>
+            <td>Dual Resistant High Density (DRHD)</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Yield</strong></td>
+            <td>Up to 935 pages</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Compatible with</strong></td>
+            <td>MAXIFY MB2050, MB2150, MB2155, MB2350, MB2750, MB2755</td>
+        </tr>
+        
+    </tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}}} -->
+<p class=""has-dm-sans-font-family"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+    ",,taxable,,1,,1299.24,"Networking, Networking > 12 ml","CANON,12 ml",https://www.movantechonline.com/wp-content/uploads/2024/11/9195B001.jpg,brand,CANON,1,1,https://www.stonegroup.co.uk/canon-pgi-1500xl-y-high-yield-yellow-original-ink-tank-1tprnips-010957/,9195B001,9195B001,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/8/2/825F717F-85D3-49A7-AC72-622AC2D6C1B5.jpg,12 ml,High Yield,yellow,original
+,simple,,"Xerox WorkCentre 3215 - Drum cartridge - for Phaser 3052, 3260, WorkCentre 3215, 3225",1,0,visible,Xerox maintenance items are designed to keep your Xerox equipment operating efficiently and delivering the best quality.,"<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""inventory"",""title"":""Inventory""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""shipping"",""title"":""Shipping""} /-->
+
+<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained"",""contentSize"":""1920px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
+<div class=""wp-block-columns""><!-- wp:column {""width"":""324px""} -->
+<div class=""wp-block-column"" style=""flex-basis:324px""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""25px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:25px;font-style:normal;font-weight:700;line-height:1.6""><strong>Product details</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {""width"":""805px""} -->
+<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
+<div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
+<div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Xerox WorkCentre 3215</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6""><strong>Overview</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">Xerox maintenance items are designed to keep your Xerox equipment operating efficiently and delivering the best quality.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class=""wp-block-list""><!-- wp:list-item -->
+<li>Drum cartridge</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>for Phaser 3052, 3260; WorkCentre 3215, 3225</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:table {""className"":""is-style-stripes""} /-->
+
+<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""0px""}},""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""verticalAlignment"":""center"",""style"":{""spacing"":{""blockGap"":{""top"":""0"",""left"":""0""},""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""border"":{""radius"":""8px""}}} -->
+<div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
+<div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
+<div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
+<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Xerox WorkCentre 3215</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>drum cartridge</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {""verticalAlignment"":""center""} -->
+<div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
+<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/101R00474.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
+<div class=""wp-block-columns""><!-- wp:column {""width"":""805px""} -->
+<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""lineHeight"":""1.6"",""fontStyle"":""normal"",""fontWeight"":""400""}},""textColor"":""contrast""} -->
+<p class=""has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":1} -->
+<h1 class=""wp-block-heading"">Specification</h1>
+<!-- /wp:heading -->
+
+<!-- wp:table {""className"":""is-style-stripes"",""style"":{""border"":{""width"":""0px"",""style"":""none""},""spacing"":{""margin"":{""top"":""var:preset|spacing|30"",""bottom"":""var:preset|spacing|30""}}}} -->
+    <figure class=""wp-block-table is-style-stripes"" style=""margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"">
+    <table class=""has-fixed-layout"" style=""border-style:none;border-width:0px"">
+    <tbody>
+    
+        <tr>
+            <td><strong>Product Type</strong></td>
+            <td>Drum cartridge</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Printing Technology</strong></td>
+            <td>Laser</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Yield</strong></td>
+            <td>Up to 10000 pages</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Compatible with</strong></td>
+            <td>Phaser 3052V_N, 3052V_NI, 3260/DI, 3260/DNI, 3260V_DI, 3260V_DNI; WorkCentre 3215/NI, 3215V_NI, 3225/DNI, 3225V_DNI, 3225V_DNIH, 3225V_DNIY</td>
+        </tr>
+        
+    </tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}}} -->
+<p class=""has-dm-sans-font-family"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+    ",,taxable,,1,,6180.41,"Networking, Networking > Drum cartridge","XEROX,Drum cartridge",https://www.movantechonline.com/wp-content/uploads/2024/11/101R00474.jpg,brand,XEROX,1,1,https://www.stonegroup.co.uk/xerox-workcentre-3215-drum-cartridge-1tprnlps-017108/,101R00474,101R00474,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/D/F/DF4070B0-E5AC-4229-A849-877DA9878D03.jpg,Drum cartridge,"for Phaser 3052, 3260; WorkCentre 3215, 3225",,
+,simple,,Canon PGI-1500XL C - High Yield - cyan - original - ink tank,1,0,visible,"DRHD pigment inks produce professional quality business documents, print after print. The high-density cyan ink delivers prints with strong color, great longevity and durability. The 12ml high yield XL cyan ink tank allows you to print up to 1020 A4 documents.","<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""inventory"",""title"":""Inventory""} /-->
+
+<!-- wp:woocommerce/product-tab {""id"":""shipping"",""title"":""Shipping""} /-->
+
+<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained"",""contentSize"":""1920px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
+<div class=""wp-block-columns""><!-- wp:column {""width"":""324px""} -->
+<div class=""wp-block-column"" style=""flex-basis:324px""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""25px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:25px;font-style:normal;font-weight:700;line-height:1.6""><strong>Product details</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {""width"":""805px""} -->
+<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
+<div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
+<div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Canon PGI-1500XL C</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6""><strong>Overview</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">DRHD pigment inks produce professional quality business documents, print after print. The high-density cyan ink delivers prints with strong color, great longevity and durability. The 12ml high yield XL cyan ink tank allows you to print up to 1020 A4 documents.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class=""wp-block-list""><!-- wp:list-item -->
+<li>12 ml</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>High Yield</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>cyan</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>original</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:table {""className"":""is-style-stripes""} /-->
+
+<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""0px""}},""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""verticalAlignment"":""center"",""style"":{""spacing"":{""blockGap"":{""top"":""0"",""left"":""0""},""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""border"":{""radius"":""8px""}}} -->
+<div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
+<div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
+<div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
+<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Canon PGI-1500XL C</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>High Yield - cyan - original - ink tank</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {""verticalAlignment"":""center""} -->
+<div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
+<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/9193B001.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
+<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
+<div class=""wp-block-columns""><!-- wp:column {""width"":""805px""} -->
+<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""lineHeight"":""1.6"",""fontStyle"":""normal"",""fontWeight"":""400""}},""textColor"":""contrast""} -->
+<p class=""has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":1} -->
+<h1 class=""wp-block-heading"">Specification</h1>
+<!-- /wp:heading -->
+
+<!-- wp:table {""className"":""is-style-stripes"",""style"":{""border"":{""width"":""0px"",""style"":""none""},""spacing"":{""margin"":{""top"":""var:preset|spacing|30"",""bottom"":""var:preset|spacing|30""}}}} -->
+    <figure class=""wp-block-table is-style-stripes"" style=""margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"">
+    <table class=""has-fixed-layout"" style=""border-style:none;border-width:0px"">
+    <tbody>
+    
+        <tr>
+            <td><strong>Product Type</strong></td>
+            <td>Ink tank</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Printing Technology</strong></td>
+            <td>Ink-jet</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Printing Colour</strong></td>
+            <td>Cyan (pigmented)</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Capacity</strong></td>
+            <td>12 ml</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Cartridge Yield</strong></td>
+            <td>High Yield</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Cartridge Features</strong></td>
+            <td>Dual Resistant High Density (DRHD)</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Yield</strong></td>
+            <td>Up to 1020 pages</td>
+        </tr>
+        
+        <tr>
+            <td><strong>Compatible with</strong></td>
+            <td>MAXIFY MB2050, MB2150, MB2155, MB2350, MB2750, MB2755</td>
+        </tr>
+        
+    </tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}}} -->
+<p class=""has-dm-sans-font-family"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+    ",,taxable,,1,,1233.68,"Networking, Networking > 12 ml","CANON,12 ml",https://www.movantechonline.com/wp-content/uploads/2024/11/9193B001.jpg,brand,CANON,1,1,https://www.stonegroup.co.uk/canon-pgi-1500xl-c-high-yield-cyan-original-ink-tank-1tprnips-010955/,9193B001,9193B001,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/C/C/CC82A153-D9C9-4255-86AA-F98B80520404.jpg,12 ml,High Yield,cyan,original
 ,simple,,Canon KC-18IS - 1 - print ribbon cassette and paper kit,1,0,visible,It is contains enough ink and paper for 18 card-size square labels.,"<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
 
 <!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
@@ -142,7 +1040,7 @@ ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,
 <p></p>
 <!-- /wp:paragraph -->
     ",,taxable,,1,,1756.0,"Networking, Networking > Print ribbon cassette and paper kit","CANON,Print ribbon cassette and paper kit",https://www.movantechonline.com/wp-content/uploads/2024/11/7429B001.jpg,brand,CANON,1,1,https://www.stonegroup.co.uk/canon-kc-18is-1-print-ribbon-cassette-and-paper-kit-1tprnmxs-001829/,7429B001,7429B001,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/F/6/F642EC34-205B-413D-985C-E9F59FFC804E.jpg,Print ribbon cassette and paper kit,"for Canon SELPHY CP1000, CP1200, CP1300, CP820, CP900, CP910",,
-,simple,,"Xerox VersaLink B605/B615 - Original - drum kit - for VersaLink B600, B605, B610, B615",1,0,visible,Xerox maintenance items are designed to keep your Xerox equipment operating efficiently and delivering the best quality.,"<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
+,simple,,"Xerox - Magenta - compatible - toner cartridge (alternative for: HP CE313A) - for HP Color LaserJet Pro CP1025, LaserJet Pro MFP M175, TopShot LaserJet Pro M275",1,0,visible,"Being environmentally responsible is simply the best way to do business, because it positively impacts the health of our planet, your company and your people. Everyday Remanufactured Toner by Xerox has the lowest carbon footprint than any single-use toner cartridge. Because you shouldn't have to choose between doing your part to reduce your eco-impact and your toner costs. And compatibility with the most popular printer brands means you can enjoy benchmark Xerox quality and stewardship no matter what kind of printer you have.","<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
 
 <!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
 
@@ -163,7 +1061,7 @@ ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,
 <div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
 <div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
 <div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Xerox VersaLink B605/B615</strong></h2>
+<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Xerox</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
@@ -171,24 +1069,24 @@ ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">Xerox maintenance items are designed to keep your Xerox equipment operating efficiently and delivering the best quality.</p>
+<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">Being environmentally responsible is simply the best way to do business, because it positively impacts the health of our planet, your company and your people. Everyday Remanufactured Toner by Xerox has the lowest carbon footprint than any single-use toner cartridge. Because you shouldn't have to choose between doing your part to reduce your eco-impact and your toner costs. And compatibility with the most popular printer brands means you can enjoy benchmark Xerox quality and stewardship no matter what kind of printer you have.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul class=""wp-block-list""><!-- wp:list-item -->
-<li>Original</li>
+<li>Magenta</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>drum kit</li>
+<li>compatible</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>for VersaLink B600, B605, B610, B615</li>
+<li>toner cartridge (alternative for: HP CE313A)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li></li>
+<li>for HP Color LaserJet Pro CP1025; LaserJet Pro MFP M175; TopShot LaserJet Pro M275</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group --></div>
@@ -204,18 +1102,18 @@ ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,
 <div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
 <div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
 <div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
-<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Xerox VersaLink B605/B615</strong></h2>
+<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Xerox</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>original - drum kit</p>
+<p>magenta - compatible - toner cartridge (alternative for: HP CE313A)</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {""verticalAlignment"":""center""} -->
 <div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
-<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/101R00582.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
+<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/106R02260.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -247,7 +1145,7 @@ ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,
     
         <tr>
             <td><strong>Product Type</strong></td>
-            <td>Drum kit</td>
+            <td>Toner cartridge</td>
         </tr>
         
         <tr>
@@ -256,13 +1154,18 @@ ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,
         </tr>
         
         <tr>
+            <td><strong>Printing Colour</strong></td>
+            <td>Magenta</td>
+        </tr>
+        
+        <tr>
             <td><strong>Yield</strong></td>
-            <td>Up to 60000 pages</td>
+            <td>Up to 1000 pages at 5% coverage</td>
         </tr>
         
         <tr>
             <td><strong>Compatible with</strong></td>
-            <td>VersaLink B600, B605, B610, B615</td>
+            <td>HP Color LaserJet Pro CP1025, CP1025nw; LaserJet Pro MFP M175a, MFP M175nw; TopShot LaserJet Pro M275 MFP</td>
         </tr>
         
     </tbody></table></figure>
@@ -279,145 +1182,7 @@ ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
-    ",,taxable,,1,,5842.76,"Networking, Networking > Original","XEROX,Original",https://www.movantechonline.com/wp-content/uploads/2024/11/101R00582.jpg,brand,XEROX,1,1,https://www.stonegroup.co.uk/xerox-versalink-b605-b615-original-drum-kit-1tprnlps-017111/,101R00582,101R00582,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/0/D/0D0B15C8-0962-4722-8096-4882CA5F11AE.jpg,Original,drum kit,"for VersaLink B600, B605, B610, B615",
-,simple,,"Xerox WorkCentre 3215 - Drum cartridge - for Phaser 3052, 3260, WorkCentre 3215, 3225",1,0,visible,Xerox maintenance items are designed to keep your Xerox equipment operating efficiently and delivering the best quality.,"<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""inventory"",""title"":""Inventory""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""shipping"",""title"":""Shipping""} /-->
-
-<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained"",""contentSize"":""1920px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
-<div class=""wp-block-columns""><!-- wp:column {""width"":""324px""} -->
-<div class=""wp-block-column"" style=""flex-basis:324px""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""25px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:25px;font-style:normal;font-weight:700;line-height:1.6""><strong>Product details</strong></h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {""width"":""805px""} -->
-<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
-<div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
-<div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Xerox WorkCentre 3215</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6""><strong>Overview</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">Xerox maintenance items are designed to keep your Xerox equipment operating efficiently and delivering the best quality.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class=""wp-block-list""><!-- wp:list-item -->
-<li>Drum cartridge</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>for Phaser 3052, 3260; WorkCentre 3215, 3225</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:table {""className"":""is-style-stripes""} /-->
-
-<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""0px""}},""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""verticalAlignment"":""center"",""style"":{""spacing"":{""blockGap"":{""top"":""0"",""left"":""0""},""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""border"":{""radius"":""8px""}}} -->
-<div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
-<div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
-<div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
-<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Xerox WorkCentre 3215</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>drum cartridge</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {""verticalAlignment"":""center""} -->
-<div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
-<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/101R00474.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
-<div class=""wp-block-columns""><!-- wp:column {""width"":""805px""} -->
-<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""lineHeight"":""1.6"",""fontStyle"":""normal"",""fontWeight"":""400""}},""textColor"":""contrast""} -->
-<p class=""has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {""level"":1} -->
-<h1 class=""wp-block-heading"">Specification</h1>
-<!-- /wp:heading -->
-
-<!-- wp:table {""className"":""is-style-stripes"",""style"":{""border"":{""width"":""0px"",""style"":""none""},""spacing"":{""margin"":{""top"":""var:preset|spacing|30"",""bottom"":""var:preset|spacing|30""}}}} -->
-    <figure class=""wp-block-table is-style-stripes"" style=""margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"">
-    <table class=""has-fixed-layout"" style=""border-style:none;border-width:0px"">
-    <tbody>
-    
-        <tr>
-            <td><strong>Product Type</strong></td>
-            <td>Drum cartridge</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Printing Technology</strong></td>
-            <td>Laser</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Yield</strong></td>
-            <td>Up to 10000 pages</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Compatible with</strong></td>
-            <td>Phaser 3052V_N, 3052V_NI, 3260/DI, 3260/DNI, 3260V_DI, 3260V_DNI; WorkCentre 3215/NI, 3215V_NI, 3225/DNI, 3225V_DNI, 3225V_DNIH, 3225V_DNIY</td>
-        </tr>
-        
-    </tbody></table></figure>
-<!-- /wp:table -->
-
-<!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}}} -->
-<p class=""has-dm-sans-font-family"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-    ",,taxable,,1,,6180.41,"Networking, Networking > Drum cartridge","XEROX,Drum cartridge",https://www.movantechonline.com/wp-content/uploads/2024/11/101R00474.jpg,brand,XEROX,1,1,https://www.stonegroup.co.uk/xerox-workcentre-3215-drum-cartridge-1tprnlps-017108/,101R00474,101R00474,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/D/F/DF4070B0-E5AC-4229-A849-877DA9878D03.jpg,Drum cartridge,"for Phaser 3052, 3260; WorkCentre 3215, 3225",,
+    ",,taxable,,1,,2518.71,"Networking, Networking > Monitoring device","XEROX,Monitoring device",https://www.movantechonline.com/wp-content/uploads/2024/11/106R02260.jpg,brand,XEROX,1,1,https://www.stonegroup.co.uk/xerox-magenta-toner-cartridge-alternative-for-hp-ce313a-1tprnlps-017193/,106R02260,106R02260,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/6/1/619811BE-F54A-4E65-BC87-F8BEED2CF4C8.jpg,Magenta,compatible,toner cartridge (alternative for: HP CE313A),for HP Color LaserJet Pro CP1025; LaserJet Pro MFP M175; TopShot LaserJet Pro M275
 ,simple,,"Canon PGI-1500XL M - 9194B001 - 1 x Magenta - High Yield - Ink tank - For MAXIFY MB2050,MB2350",1,0,visible,"DRHD pigment inks produce professional quality business documents, print after print. The high-density magenta ink delivers prints with strong color, great longevity and durability. The 12ml high yield XL magenta ink tank allows you to print up to 780 A4 documents.","<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
 
 <!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
@@ -719,465 +1484,6 @@ ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,
 <p></p>
 <!-- /wp:paragraph -->
     ",,taxable,,1,,8265.32,"Networking, Networking > Black","XEROX,Black",https://www.movantechonline.com/wp-content/uploads/2024/11/101R00554.jpg,brand,XEROX,1,1,https://www.stonegroup.co.uk/xerox-versalink-b400-black-original-drum-kit-1tprnlps-017109/,101R00554,101R00554,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/4/E/4E253615-2DF5-4C22-9C60-AC62DE1F0943.jpg,Black,original,drum kit,"for VersaLink B400, B405"
-,simple,,Canon PGI-1500XL C - High Yield - cyan - original - ink tank,1,0,visible,"DRHD pigment inks produce professional quality business documents, print after print. The high-density cyan ink delivers prints with strong color, great longevity and durability. The 12ml high yield XL cyan ink tank allows you to print up to 1020 A4 documents.","<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""inventory"",""title"":""Inventory""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""shipping"",""title"":""Shipping""} /-->
-
-<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained"",""contentSize"":""1920px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
-<div class=""wp-block-columns""><!-- wp:column {""width"":""324px""} -->
-<div class=""wp-block-column"" style=""flex-basis:324px""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""25px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:25px;font-style:normal;font-weight:700;line-height:1.6""><strong>Product details</strong></h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {""width"":""805px""} -->
-<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
-<div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
-<div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Canon PGI-1500XL C</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6""><strong>Overview</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">DRHD pigment inks produce professional quality business documents, print after print. The high-density cyan ink delivers prints with strong color, great longevity and durability. The 12ml high yield XL cyan ink tank allows you to print up to 1020 A4 documents.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class=""wp-block-list""><!-- wp:list-item -->
-<li>12 ml</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>High Yield</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>cyan</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>original</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:table {""className"":""is-style-stripes""} /-->
-
-<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""0px""}},""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""verticalAlignment"":""center"",""style"":{""spacing"":{""blockGap"":{""top"":""0"",""left"":""0""},""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""border"":{""radius"":""8px""}}} -->
-<div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
-<div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
-<div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
-<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Canon PGI-1500XL C</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>High Yield - cyan - original - ink tank</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {""verticalAlignment"":""center""} -->
-<div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
-<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/9193B001.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
-<div class=""wp-block-columns""><!-- wp:column {""width"":""805px""} -->
-<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""lineHeight"":""1.6"",""fontStyle"":""normal"",""fontWeight"":""400""}},""textColor"":""contrast""} -->
-<p class=""has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {""level"":1} -->
-<h1 class=""wp-block-heading"">Specification</h1>
-<!-- /wp:heading -->
-
-<!-- wp:table {""className"":""is-style-stripes"",""style"":{""border"":{""width"":""0px"",""style"":""none""},""spacing"":{""margin"":{""top"":""var:preset|spacing|30"",""bottom"":""var:preset|spacing|30""}}}} -->
-    <figure class=""wp-block-table is-style-stripes"" style=""margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"">
-    <table class=""has-fixed-layout"" style=""border-style:none;border-width:0px"">
-    <tbody>
-    
-        <tr>
-            <td><strong>Product Type</strong></td>
-            <td>Ink tank</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Printing Technology</strong></td>
-            <td>Ink-jet</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Printing Colour</strong></td>
-            <td>Cyan (pigmented)</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Capacity</strong></td>
-            <td>12 ml</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Cartridge Yield</strong></td>
-            <td>High Yield</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Cartridge Features</strong></td>
-            <td>Dual Resistant High Density (DRHD)</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Yield</strong></td>
-            <td>Up to 1020 pages</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Compatible with</strong></td>
-            <td>MAXIFY MB2050, MB2150, MB2155, MB2350, MB2750, MB2755</td>
-        </tr>
-        
-    </tbody></table></figure>
-<!-- /wp:table -->
-
-<!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}}} -->
-<p class=""has-dm-sans-font-family"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-    ",,taxable,,1,,1233.68,"Networking, Networking > 12 ml","CANON,12 ml",https://www.movantechonline.com/wp-content/uploads/2024/11/9193B001.jpg,brand,CANON,1,1,https://www.stonegroup.co.uk/canon-pgi-1500xl-c-high-yield-cyan-original-ink-tank-1tprnips-010955/,9193B001,9193B001,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/C/C/CC82A153-D9C9-4255-86AA-F98B80520404.jpg,12 ml,High Yield,cyan,original
-,simple,,"Canon PGI-1500XL Y - 9195B001 - 1 x Yellow - High Yield - Ink tank - For MAXIFY MB2050,MB2350",1,0,visible,"DRHD pigment inks produce professional quality business documents, print after print. The high-density ink delivers prints with strong color, great longevity and durability.","<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""inventory"",""title"":""Inventory""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""shipping"",""title"":""Shipping""} /-->
-
-<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained"",""contentSize"":""1920px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
-<div class=""wp-block-columns""><!-- wp:column {""width"":""324px""} -->
-<div class=""wp-block-column"" style=""flex-basis:324px""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""25px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:25px;font-style:normal;font-weight:700;line-height:1.6""><strong>Product details</strong></h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {""width"":""805px""} -->
-<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
-<div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
-<div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Canon PGI-1500XL Y</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6""><strong>Overview</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">DRHD pigment inks produce professional quality business documents, print after print. The high-density ink delivers prints with strong color, great longevity and durability.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class=""wp-block-list""><!-- wp:list-item -->
-<li>12 ml</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>High Yield</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>yellow</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>original</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:table {""className"":""is-style-stripes""} /-->
-
-<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""0px""}},""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""verticalAlignment"":""center"",""style"":{""spacing"":{""blockGap"":{""top"":""0"",""left"":""0""},""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""border"":{""radius"":""8px""}}} -->
-<div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
-<div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
-<div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
-<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Canon PGI-1500XL Y</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>High Yield - yellow - original - ink tank</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {""verticalAlignment"":""center""} -->
-<div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
-<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/9195B001.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
-<div class=""wp-block-columns""><!-- wp:column {""width"":""805px""} -->
-<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""lineHeight"":""1.6"",""fontStyle"":""normal"",""fontWeight"":""400""}},""textColor"":""contrast""} -->
-<p class=""has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {""level"":1} -->
-<h1 class=""wp-block-heading"">Specification</h1>
-<!-- /wp:heading -->
-
-<!-- wp:table {""className"":""is-style-stripes"",""style"":{""border"":{""width"":""0px"",""style"":""none""},""spacing"":{""margin"":{""top"":""var:preset|spacing|30"",""bottom"":""var:preset|spacing|30""}}}} -->
-    <figure class=""wp-block-table is-style-stripes"" style=""margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"">
-    <table class=""has-fixed-layout"" style=""border-style:none;border-width:0px"">
-    <tbody>
-    
-        <tr>
-            <td><strong>Product Type</strong></td>
-            <td>Ink tank</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Printing Technology</strong></td>
-            <td>Ink-jet</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Printing Colour</strong></td>
-            <td>Yellow (pigmented)</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Capacity</strong></td>
-            <td>12 ml</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Cartridge Yield</strong></td>
-            <td>High Yield</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Cartridge Features</strong></td>
-            <td>Dual Resistant High Density (DRHD)</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Yield</strong></td>
-            <td>Up to 935 pages</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Compatible with</strong></td>
-            <td>MAXIFY MB2050, MB2150, MB2155, MB2350, MB2750, MB2755</td>
-        </tr>
-        
-    </tbody></table></figure>
-<!-- /wp:table -->
-
-<!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}}} -->
-<p class=""has-dm-sans-font-family"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-    ",,taxable,,1,,1299.24,"Networking, Networking > 12 ml","CANON,12 ml",https://www.movantechonline.com/wp-content/uploads/2024/11/9195B001.jpg,brand,CANON,1,1,https://www.stonegroup.co.uk/canon-pgi-1500xl-y-high-yield-yellow-original-ink-tank-1tprnips-010957/,9195B001,9195B001,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/8/2/825F717F-85D3-49A7-AC72-622AC2D6C1B5.jpg,12 ml,High Yield,yellow,original
-,simple,,"Xerox - Magenta - compatible - toner cartridge (alternative for: HP CE313A) - for HP Color LaserJet Pro CP1025, LaserJet Pro MFP M175, TopShot LaserJet Pro M275",1,0,visible,"Being environmentally responsible is simply the best way to do business, because it positively impacts the health of our planet, your company and your people. Everyday Remanufactured Toner by Xerox has the lowest carbon footprint than any single-use toner cartridge. Because you shouldn't have to choose between doing your part to reduce your eco-impact and your toner costs. And compatibility with the most popular printer brands means you can enjoy benchmark Xerox quality and stewardship no matter what kind of printer you have.","<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""inventory"",""title"":""Inventory""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""shipping"",""title"":""Shipping""} /-->
-
-<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained"",""contentSize"":""1920px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
-<div class=""wp-block-columns""><!-- wp:column {""width"":""324px""} -->
-<div class=""wp-block-column"" style=""flex-basis:324px""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""25px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:25px;font-style:normal;font-weight:700;line-height:1.6""><strong>Product details</strong></h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {""width"":""805px""} -->
-<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
-<div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
-<div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Xerox</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6""><strong>Overview</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">Being environmentally responsible is simply the best way to do business, because it positively impacts the health of our planet, your company and your people. Everyday Remanufactured Toner by Xerox has the lowest carbon footprint than any single-use toner cartridge. Because you shouldn't have to choose between doing your part to reduce your eco-impact and your toner costs. And compatibility with the most popular printer brands means you can enjoy benchmark Xerox quality and stewardship no matter what kind of printer you have.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class=""wp-block-list""><!-- wp:list-item -->
-<li>Magenta</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>compatible</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>toner cartridge (alternative for: HP CE313A)</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>for HP Color LaserJet Pro CP1025; LaserJet Pro MFP M175; TopShot LaserJet Pro M275</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:table {""className"":""is-style-stripes""} /-->
-
-<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""0px""}},""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""verticalAlignment"":""center"",""style"":{""spacing"":{""blockGap"":{""top"":""0"",""left"":""0""},""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""border"":{""radius"":""8px""}}} -->
-<div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
-<div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
-<div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
-<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Xerox</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>magenta - compatible - toner cartridge (alternative for: HP CE313A)</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {""verticalAlignment"":""center""} -->
-<div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
-<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/106R02260.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
-<div class=""wp-block-columns""><!-- wp:column {""width"":""805px""} -->
-<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""lineHeight"":""1.6"",""fontStyle"":""normal"",""fontWeight"":""400""}},""textColor"":""contrast""} -->
-<p class=""has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {""level"":1} -->
-<h1 class=""wp-block-heading"">Specification</h1>
-<!-- /wp:heading -->
-
-<!-- wp:table {""className"":""is-style-stripes"",""style"":{""border"":{""width"":""0px"",""style"":""none""},""spacing"":{""margin"":{""top"":""var:preset|spacing|30"",""bottom"":""var:preset|spacing|30""}}}} -->
-    <figure class=""wp-block-table is-style-stripes"" style=""margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"">
-    <table class=""has-fixed-layout"" style=""border-style:none;border-width:0px"">
-    <tbody>
-    
-        <tr>
-            <td><strong>Product Type</strong></td>
-            <td>Toner cartridge</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Printing Technology</strong></td>
-            <td>Laser</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Printing Colour</strong></td>
-            <td>Magenta</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Yield</strong></td>
-            <td>Up to 1000 pages at 5% coverage</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Compatible with</strong></td>
-            <td>HP Color LaserJet Pro CP1025, CP1025nw; LaserJet Pro MFP M175a, MFP M175nw; TopShot LaserJet Pro M275 MFP</td>
-        </tr>
-        
-    </tbody></table></figure>
-<!-- /wp:table -->
-
-<!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}}} -->
-<p class=""has-dm-sans-font-family"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-    ",,taxable,,1,,2518.71,"Networking, Networking > Monitoring device","XEROX,Monitoring device",https://www.movantechonline.com/wp-content/uploads/2024/11/106R02260.jpg,brand,XEROX,1,1,https://www.stonegroup.co.uk/xerox-magenta-toner-cartridge-alternative-for-hp-ce313a-1tprnlps-017193/,106R02260,106R02260,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/6/1/619811BE-F54A-4E65-BC87-F8BEED2CF4C8.jpg,Magenta,compatible,toner cartridge (alternative for: HP CE313A),for HP Color LaserJet Pro CP1025; LaserJet Pro MFP M175; TopShot LaserJet Pro M275
 ,simple,,"Xerox WorkCentre 3300 Series - Drum cartridge - for Phaser 3330, WorkCentre 3335, 3345",1,0,visible,Xerox maintenance items are designed to keep your Xerox equipment operating efficiently and delivering the best quality.,"<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
 
 <!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
@@ -1449,309 +1755,3 @@ ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,
 <p></p>
 <!-- /wp:paragraph -->
     ",,taxable,,1,,5196.96,"Networking, Networking > Drum cartridge","XEROX,Drum cartridge",https://www.movantechonline.com/wp-content/uploads/2024/11/101R00664.jpg,brand,XEROX,1,1,https://www.stonegroup.co.uk/xerox-b215-drum-cartridge-1tprnlps-017112/,101R00664,101R00664,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/2/E/2EB3D6AB-F695-4819-8A38-D112DBF36672.jpg,Drum cartridge,"for Xerox B205V/NI, B210/DNI, B210V/DNI, B215V/DNI",,
-,simple,,"Xerox Phaser 6600 - High capacity - magenta - original - toner cartridge - for Phaser 6600, WorkCentre 6605",1,0,visible,"Xerox Genuine Phaser 6600, WorkCentre 6605 Magenta Toner Cartridge is specially formulated and tested to provide the best image quality and most reliable printing you can count on page after page. Xerox Genuine Supplies and Xerox equipment are made for each other. Accept no imitations. Compatible toners may risk breakdown of Xerox printers and result in poor print quality and weak colours. With over 75 years' experience, Genuine Xerox Supplies are something you can rely on.","<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""inventory"",""title"":""Inventory""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""shipping"",""title"":""Shipping""} /-->
-
-<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained"",""contentSize"":""1920px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
-<div class=""wp-block-columns""><!-- wp:column {""width"":""324px""} -->
-<div class=""wp-block-column"" style=""flex-basis:324px""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""25px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:25px;font-style:normal;font-weight:700;line-height:1.6""><strong>Product details</strong></h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {""width"":""805px""} -->
-<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
-<div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
-<div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Xerox Phaser 6600</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6""><strong>Overview</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">Xerox Genuine Phaser 6600, WorkCentre 6605 Magenta Toner Cartridge is specially formulated and tested to provide the best image quality and most reliable printing you can count on page after page. Xerox Genuine Supplies and Xerox equipment are made for each other. Accept no imitations. Compatible toners may risk breakdown of Xerox printers and result in poor print quality and weak colours. With over 75 years' experience, Genuine Xerox Supplies are something you can rely on.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class=""wp-block-list""><!-- wp:list-item -->
-<li>High capacity</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>magenta</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>original</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>toner cartridge</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:table {""className"":""is-style-stripes""} /-->
-
-<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""0px""}},""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""verticalAlignment"":""center"",""style"":{""spacing"":{""blockGap"":{""top"":""0"",""left"":""0""},""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""border"":{""radius"":""8px""}}} -->
-<div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
-<div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
-<div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
-<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Xerox Phaser 6600</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>high capacity - magenta - original - toner cartridge</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {""verticalAlignment"":""center""} -->
-<div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
-<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/106R02230.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
-<div class=""wp-block-columns""><!-- wp:column {""width"":""805px""} -->
-<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""lineHeight"":""1.6"",""fontStyle"":""normal"",""fontWeight"":""400""}},""textColor"":""contrast""} -->
-<p class=""has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {""level"":1} -->
-<h1 class=""wp-block-heading"">Specification</h1>
-<!-- /wp:heading -->
-
-<!-- wp:table {""className"":""is-style-stripes"",""style"":{""border"":{""width"":""0px"",""style"":""none""},""spacing"":{""margin"":{""top"":""var:preset|spacing|30"",""bottom"":""var:preset|spacing|30""}}}} -->
-    <figure class=""wp-block-table is-style-stripes"" style=""margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"">
-    <table class=""has-fixed-layout"" style=""border-style:none;border-width:0px"">
-    <tbody>
-    
-        <tr>
-            <td><strong>Product Type</strong></td>
-            <td>Toner cartridge</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Printing Technology</strong></td>
-            <td>Laser</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Printing Colour</strong></td>
-            <td>Magenta</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Cartridge Yield</strong></td>
-            <td>High capacity</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Yield</strong></td>
-            <td>Up to 6000 pages</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Compatible with</strong></td>
-            <td>Phaser 6600/DNM, 6600/YDN, 6600DN, 6600N, 6600V_DNM; WorkCentre 6605/DNM, 6605DN, 6605N, 6605V_DN, 6605V_DNC, 6605V_DNW, 6605V_N</td>
-        </tr>
-        
-    </tbody></table></figure>
-<!-- /wp:table -->
-
-<!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}}} -->
-<p class=""has-dm-sans-font-family"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-    ",,taxable,,1,,18475.67,"Networking, Networking > High capacity","XEROX,High capacity",https://www.movantechonline.com/wp-content/uploads/2024/11/106R02230.jpg,brand,XEROX,1,1,https://www.stonegroup.co.uk/xerox-phaser-6600-high-capacity-magenta-original-toner-cartridge-1tprnlps-017191/,106R02230,106R02230,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/8/1/8181EC39-992C-4D68-B8A8-4141312D015D.jpg,High capacity,magenta,original,toner cartridge
-,simple,,Canon PGI-1500XL BK - High Yield - black - original - ink tank,1,0,visible,"DRHD pigment inks produce professional quality business documents, print after print. The high-density black ink delivers crisp text with great longevity and durability. The 34.7ml high yield XL black ink prints up to 1200 A4 documents.","<!-- wp:woocommerce/product-tab {""id"":""general"",""title"":""General""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""pricing"",""title"":""Pricing""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""inventory"",""title"":""Inventory""} /-->
-
-<!-- wp:woocommerce/product-tab {""id"":""shipping"",""title"":""Shipping""} /-->
-
-<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained"",""contentSize"":""1920px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
-<div class=""wp-block-columns""><!-- wp:column {""width"":""324px""} -->
-<div class=""wp-block-column"" style=""flex-basis:324px""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""25px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:25px;font-style:normal;font-weight:700;line-height:1.6""><strong>Product details</strong></h2>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {""width"":""805px""} -->
-<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:group {""style"":{""spacing"":{""blockGap"":""60px""}},""layout"":{""type"":""constrained""}} -->
-<div class=""wp-block-group""><!-- wp:group {""layout"":{""type"":""constrained""}} -->
-<div class=""wp-block-group""><!-- wp:heading {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""17px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":1.6},""spacing"":{""margin"":{""bottom"":""10px""}}},""textColor"":""contrast""} -->
-<h2 class=""wp-block-heading has-dm-sans-font-family has-contrast-color has-text-color"" style=""margin-bottom:10px;font-size:17px;font-style:normal;font-weight:700;line-height:1.6""><strong>Canon PGI-1500XL BK</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6""><strong>Overview</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {""style"":{""spacing"":{""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""},""margin"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}},""textColor"":""contrast""} -->
-<p class=""has-contrast-color has-text-color"" style=""margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:15px;font-style:normal;font-weight:400;line-height:1.6"">DRHD pigment inks produce professional quality business documents, print after print. The high-density black ink delivers crisp text with great longevity and durability. The 34.7ml high yield XL black ink prints up to 1200 A4 documents.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class=""wp-block-list""><!-- wp:list-item -->
-<li>34.7 ml</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>High Yield</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>black</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>original</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:table {""className"":""is-style-stripes""} /-->
-
-<!-- wp:group {""align"":""full"",""style"":{""spacing"":{""blockGap"":""0px""}},""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""verticalAlignment"":""center"",""style"":{""spacing"":{""blockGap"":{""top"":""0"",""left"":""0""},""padding"":{""top"":""0"",""right"":""0"",""bottom"":""0"",""left"":""0""}},""border"":{""radius"":""8px""}}} -->
-<div class=""wp-block-columns are-vertically-aligned-center"" style=""border-radius:8px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0""><!-- wp:column {""verticalAlignment"":""center"",""width"":""595px"",""style"":{""spacing"":{""padding"":{""top"":""0"",""bottom"":""0""}}}} -->
-<div class=""wp-block-column is-vertically-aligned-center"" style=""padding-top:0;padding-bottom:0;flex-basis:595px""><!-- wp:group {""className"":""title-with-image"",""style"":{""color"":{""background"":""#f5f5f7""},""border"":{""radius"":{""topLeft"":""8px"",""bottomLeft"":""8px""}},""spacing"":{""padding"":{""right"":""14%"",""left"":""11.7%""}}},""layout"":{""type"":""constrained"",""contentSize"":""""}} -->
-<div class=""wp-block-group title-with-image has-background"" style=""border-top-left-radius:8px;border-bottom-left-radius:8px;background-color:#f5f5f7;padding-right:14%;padding-left:11.7%""><!-- wp:heading {""textAlign"":""left"",""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""36px"",""fontStyle"":""normal"",""fontWeight"":""700"",""lineHeight"":""1.3""}}} -->
-<h2 class=""wp-block-heading has-text-align-left has-dm-sans-font-family"" style=""font-size:36px;font-style:normal;font-weight:700;line-height:1.3""><strong>Canon PGI-1500XL BK</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>High Yield - black - original - ink tank</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {""verticalAlignment"":""center""} -->
-<div class=""wp-block-column is-vertically-aligned-center""><!-- wp:image {""id"":6384,""width"":""257px"",""height"":""auto"",""sizeSlug"":""full"",""linkDestination"":""none"",""style"":{""border"":{""radius"":{""topRight"":""8px"",""bottomRight"":""8px""}}}} -->
-<figure class=""wp-block-image size-full is-resized has-custom-border""><img src=""https://www.movantechonline.com/wp-content/uploads/2024/11/9182B001.jpg"" alt="""" class=""wp-image-6384"" style=""border-top-right-radius:8px;border-bottom-right-radius:8px;width:257px;height:auto""/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {""align"":""full"",""layout"":{""type"":""constrained"",""contentSize"":""1400px""}} -->
-<div class=""wp-block-group alignfull""><!-- wp:columns {""style"":{""spacing"":{""blockGap"":{""left"":""19.4%""}}}} -->
-<div class=""wp-block-columns""><!-- wp:column {""width"":""805px""} -->
-<div class=""wp-block-column"" style=""flex-basis:805px""><!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""lineHeight"":""1.6"",""fontStyle"":""normal"",""fontWeight"":""400""}},""textColor"":""contrast""} -->
-<p class=""has-dm-sans-font-family has-contrast-color has-text-color"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {""level"":1} -->
-<h1 class=""wp-block-heading"">Specification</h1>
-<!-- /wp:heading -->
-
-<!-- wp:table {""className"":""is-style-stripes"",""style"":{""border"":{""width"":""0px"",""style"":""none""},""spacing"":{""margin"":{""top"":""var:preset|spacing|30"",""bottom"":""var:preset|spacing|30""}}}} -->
-    <figure class=""wp-block-table is-style-stripes"" style=""margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)"">
-    <table class=""has-fixed-layout"" style=""border-style:none;border-width:0px"">
-    <tbody>
-    
-        <tr>
-            <td><strong>Product Type</strong></td>
-            <td>Ink tank</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Printing Technology</strong></td>
-            <td>Ink-jet</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Printing Colour</strong></td>
-            <td>Black (pigmented)</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Capacity</strong></td>
-            <td>34.7 ml</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Cartridge Yield</strong></td>
-            <td>High Yield</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Cartridge Features</strong></td>
-            <td>Dual Resistant High Density (DRHD)</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Yield</strong></td>
-            <td>Up to 1200 pages</td>
-        </tr>
-        
-        <tr>
-            <td><strong>Compatible with</strong></td>
-            <td>MAXIFY MB2050, MB2150, MB2155, MB2350, MB2750, MB2755</td>
-        </tr>
-        
-    </tbody></table></figure>
-<!-- /wp:table -->
-
-<!-- wp:paragraph {""className"":""has-dm-sans-font-family"",""style"":{""typography"":{""fontSize"":""15px"",""fontStyle"":""normal"",""fontWeight"":""400"",""lineHeight"":""1.6""}}} -->
-<p class=""has-dm-sans-font-family"" style=""font-size:15px;font-style:normal;font-weight:400;line-height:1.6""></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-    ",,taxable,,1,,1986.56,"Networking, Networking > 34.7 ml","CANON,34.7 ml",https://www.movantechonline.com/wp-content/uploads/2024/11/9182B001.jpg,brand,CANON,1,1,https://www.stonegroup.co.uk/canon-pgi-1500xl-bk-high-yield-black-original-ink-tank-1tprnips-010953/,9182B001,9182B001,https://www.stonegroup.co.uk/media/catalog/product/cache/2fa910946d31dd7ab8a5af6d2923c685/E/B/EB9CFE21-0D4D-40F0-8FF2-A3CFCD5D6E76.jpg,34.7 ml,High Yield,black,original
