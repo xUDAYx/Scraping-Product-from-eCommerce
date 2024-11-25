@@ -14,6 +14,7 @@ from extract_table import extract_product_specs, generate_html_table
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 from image_preprocessing.img__preprocessing import resize_image
+from rich.progress import Progress, SpinnerColumn, TextColumn, BarColumn, TimeElapsedColumn
 
 def get_gbp_to_inr_rate():
     try:
@@ -230,45 +231,65 @@ def extract_product_data(tree, url):
 
     return product_data
 
+# Modify the extract_product_urls function
 def extract_product_urls(start_page, end_page):
-    # Get base URL from user input
     base_url = input("Enter the base URL (e.g., https://www.stonegroup.co.uk/hardware/storage-and-memory/): ")
     brand_id = input("Enter the brand ID (e.g., 6409) or press Enter if none: ")
     product_links = []
-
-    for page in range(start_page, end_page + 1):
-        # Construct URL with optional brand parameter
-        url = f"{base_url}?p={page}"
-        if brand_id:
-            url = f"{base_url}?brand={brand_id}&p={page}"
+    
+    with Progress(
+        SpinnerColumn(),
+        TextColumn("[progress.description]{task.description}"),
+        BarColumn(),
+        TextColumn("[progress.percentage]{task.percentage:>3.0f}%"),
+        TimeElapsedColumn()
+    ) as progress:
+        task = progress.add_task("[cyan]Collecting product URLs...", total=end_page - start_page + 1)
+        
+        for page in range(start_page, end_page + 1):
+            url = f"{base_url}?p={page}"
+            if brand_id:
+                url = f"{base_url}?brand={brand_id}&p={page}"
+                
+            response = requests.get(url)
+            soup = BeautifulSoup(response.content, 'html.parser')
             
-        response = requests.get(url)
-        soup = BeautifulSoup(response.content, 'html.parser')
-        
-        product_containers = soup.find_all('div', class_='product-item-info')
-        
-        for container in product_containers:
-            link = container.find('a', class_='product-item-link')
-            if link:
-                product_links.append(link['href'])
+            product_containers = soup.find_all('div', class_='product-item-info')
+            
+            for container in product_containers:
+                link = container.find('a', class_='product-item-link')
+                if link:
+                    product_links.append(link['href'])
+                    
+            progress.update(task, advance=1)
+            
     return product_links
 
 import re
 
 def download_image(image_url, product_code, save_directory):
-    # Replace special characters with underscores
+    # Clean the product code to create a valid filename
     safe_product_code = re.sub(r'[^\w\-_\. ]', '_', product_code)
+    # Remove spaces and replace with underscores
+    safe_product_code = safe_product_code.replace(' ', '_')
     filename = f"{safe_product_code}.jpg"
+    
+    # URL encode the filename for the web URL
+    encoded_filename = quote(filename)
     temp_filepath = os.path.join(save_directory, "temp_" + filename)
     final_filepath = os.path.join(save_directory, filename)
     
     try:
-        print(f"Attempting to download image from: {image_url}")
+        print(f"Downloading image from: {image_url}")
         
+        # Handle URLs with spaces and special characters
+        if ' ' in image_url or '%' in image_url:
+            image_url = quote(image_url, safe=':/?=&')
+            
         response = requests.get(image_url, stream=True)
         response.raise_for_status()
         
-        if 'image' not in response.headers.get('Content-Type', ''):
+        if 'image' not in response.headers.get('Content-Type', '').lower():
             print(f"URL does not point to an image: {image_url}")
             return None
         
@@ -282,13 +303,15 @@ def download_image(image_url, product_code, save_directory):
             resize_image(temp_filepath, final_filepath)
             
             # Clean up temporary file
-            os.remove(temp_filepath)
+            if os.path.exists(temp_filepath):
+                os.remove(temp_filepath)
             
             current_date = datetime.now()
             year = current_date.year
             month = current_date.strftime("%m")
             
-            new_image_url = f"https://www.movantechonline.com/wp-content/uploads/{year}/{month}/{filename}"
+            # Use encoded filename in the final URL
+            new_image_url = f"https://www.movantechonline.com/wp-content/uploads/{year}/{month}/{encoded_filename}"
             
             return new_image_url
             
@@ -326,30 +349,40 @@ def scrape_stone_group():
             tree = html.fromstring(response.content)
             return extract_product_data(tree, url)
         except Exception as e:
-            tqdm.write(f"Error scraping {url}: {str(e)}")
+            print(f"Error scraping {url}: {str(e)}")
             return None
 
-    with ThreadPoolExecutor(max_workers=10) as executor:
-        futures = []
-        for url in product_urls:
-            futures.append(executor.submit(process_url, url))
+    with Progress(
+        SpinnerColumn(),
+        TextColumn("[progress.description]{task.description}"),
+        BarColumn(),
+        TextColumn("[progress.percentage]{task.percentage:>3.0f}%"),
+        TimeElapsedColumn()
+    ) as progress:
+        task = progress.add_task("[cyan]Scraping Products...", total=len(product_urls))
+        
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            futures = []
+            for url in product_urls:
+                futures.append(executor.submit(process_url, url))
 
-        for future in tqdm(as_completed(futures), total=len(futures), desc="Scraping Products"):
-            product_data = future.result()
-            if product_data and product_data['Product Code'] not in unique_product_codes:
-                unique_product_codes.add(product_data['Product Code'])
-                
-                if 'image_url' in product_data:
-                    new_image_url = download_image(product_data['image_url'], product_data['Product Code'], image_directory)
-                    if new_image_url:
-                        product_data['Images'] = new_image_url
-                        product_data['Description'] = product_data['Description'].replace("{IMAGE}", new_image_url)
-                    else:
-                        print(f"Failed to download image for {product_data['Name']}")
-                        product_data['Images'] = ''
-                
-                tqdm.write(f"Scraped: {product_data['Name']}")
-                products_data.append(product_data)
+            for future in as_completed(futures):
+                product_data = future.result()
+                if product_data and product_data['Product Code'] not in unique_product_codes:
+                    unique_product_codes.add(product_data['Product Code'])
+                    
+                    if 'image_url' in product_data:
+                        new_image_url = download_image(product_data['image_url'], product_data['Product Code'], image_directory)
+                        if new_image_url:
+                            product_data['Images'] = new_image_url
+                            product_data['Description'] = product_data['Description'].replace("{IMAGE}", new_image_url)
+                        else:
+                            print(f"Failed to download image for {product_data['Name']}")
+                            product_data['Images'] = ''
+                    
+                    print(f"Scraped: {product_data['Name']}")
+                    products_data.append(product_data)
+                progress.update(task, advance=1)
     
     print("Scraping completed. Exporting data to CSV...")
     df = pd.DataFrame(products_data)
